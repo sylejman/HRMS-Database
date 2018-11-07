@@ -1,2 +1,2 @@
 # HRMS-Database
-java database for Hrm
+Java database for Hrm
